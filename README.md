@@ -1,4 +1,3 @@
-
 # Noelani Bradley
 
 <div style="font-size:1.05rem; line-height:1.6; margin-top:0.5rem;">
